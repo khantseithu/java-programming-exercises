@@ -24,4 +24,4 @@ To run an exercise, navigate to its folder and compile the Java file using the `
 ## Here is my completion certificate
 ### validation link - [link](https://certificates.mooc.fi/validate/er00omkegyo)
 
-/Part\ 7/certificate-java-programming-i.png
+/Part 7/certificate-java-programming-i.png
